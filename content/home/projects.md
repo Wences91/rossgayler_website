@@ -33,12 +33,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+ name = "Credit Scoring"
+ tag = ".credit-scoring"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+ name = "Vector Symbolic Architecture"
+ tag = ".vsa"
 
 +++
 
