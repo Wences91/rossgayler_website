@@ -6,8 +6,8 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Selected Publications"
-subtitle = ""
+title = "Selected Outputs"
+subtitle = "An introduction to what I do"
 
 # Order that this section will appear in.
 weight = 10
