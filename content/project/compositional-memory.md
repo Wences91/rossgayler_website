@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/compositional-memory.png"
+image = "headers/compositional-memory-wide.png"
 caption = "Compositional memory"
 
 +++
