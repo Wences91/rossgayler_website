@@ -38,7 +38,7 @@ filter_default = 0
 
 [[filter]]
  name = "Vector Symbolic Architecture"
- tag = ".vsa"
+ tag = ".vector-symbolic-architecture"
 
 +++
 
