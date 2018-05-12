@@ -10,7 +10,7 @@ title = "Ross Gayler"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Ross W. Gayler"
+copyright = "![](https://i.creativecommons.org/l/by/4.0/80x15.png) &copy; 2006-2018 Ross W. Gayler"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -308,6 +308,11 @@ enableGitInfo = false
   url = "#contact"
   weight = 8
   
+[[menu.main]]
+ name = "Licence"
+ url = "#licence"
+ weight = 9
+
 # [[menu.main]]
 #   name = "Teaching"
 #   url = "#teaching"
