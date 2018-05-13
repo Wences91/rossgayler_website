@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Outputs"
+title = "Outputs"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -36,3 +36,14 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+I don't work as an academic, so I don't have career incentives for traditional publications.
+Consequently, my outputs are in whatever format was most convenient for me at the time.
+Most of my conference presentations are exactly that, presentations with no accompanying paper.
+My traditional format publications tend to mostly arise from collaborations with academic colleagues.
+
+I have not yet transferred all the outputs 
+from my old, [outdated website](https://sites.google.com/site/rgayler/home).
+Until I do, the best sources are:
+
+* [Google Scholar](https://scholar.google.com/citations?user=LT55_kQAAAAJ)
+* [ResearchGate](https://www.researchgate.net/profile/Ross_Gayler)
