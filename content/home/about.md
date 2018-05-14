@@ -66,3 +66,6 @@ Current standard machine-learning techniques have limited capacity to deal with 
 and consequently have difficulty recognising novel configurations of familiar components 
 or recognising familiar patterns of relationship when the components have been changed.
 If successful, this work will have fundamental implications for cognitive science.
+
+If you want a more CV-like listing of where I have worked,
+look at my [LinkedIn profile](https://www.linkedin.com/in/rossgayler/).
