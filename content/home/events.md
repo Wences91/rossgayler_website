@@ -17,7 +17,7 @@ weight = 40
 
 ## Future Events
 
-I will be attending these events.
+I will be attending these events and presenting at some of them.  
 Feel free to organise catching up with me for a chat.
 
 * [CSCC XVI](https://www.business-school.ed.ac.uk/event/credit-scoring-and-credit-control-xvi)  
@@ -120,7 +120,7 @@ Getting started in Bayesian modelling with STAN and RStan (Bill Dixon)
 5:45 - 8:15pm, 13 September 2017  
 Melbourne, Australia
 
-* [CSCC XV](https://www.business-school.ed.ac.uk/crc-conference/)  
+* **[CSCC XV](https://www.business-school.ed.ac.uk/crc-conference/) [SPEAKER]**  
 Credit Scoring and Credit Control conference 2017  
 30 August - 1 September 2017  
 Edinburgh, Scotland  
