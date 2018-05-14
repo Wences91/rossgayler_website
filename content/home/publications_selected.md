@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Selected Outputs"
-subtitle = "An introduction to what I do"
+subtitle = "Examples of what I do."
 
 # Order that this section will appear in.
 weight = 10
