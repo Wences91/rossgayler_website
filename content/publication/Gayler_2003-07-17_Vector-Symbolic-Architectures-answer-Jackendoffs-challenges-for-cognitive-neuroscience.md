@@ -62,4 +62,5 @@ highlight = false
 image = ""
 caption = ""
 
+# More detail can easily be written below using *Markdown* and $\rm \LaTeX$ math code.
 +++
