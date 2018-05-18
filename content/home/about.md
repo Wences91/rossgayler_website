@@ -37,7 +37,7 @@ weight = 5
  
 +++
 
-# What I do:
+# What I do: 3
 
 I work as a consultant data scientist - mostly in credit scoring 
 (predictive modelling of retail customer behaviour in consumer finance).

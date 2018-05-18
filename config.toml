@@ -12,10 +12,6 @@ title = "Ross Gayler"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2006-2018 Ross W. Gayler, licensed under http://creativecommons.org/licenses/by/4.0/"
 
-# WARNING do not enable permalinks until permalinks bug is fixed
-# [permalinks]
-#   post = "/:year/:month/:day/:slug/"
-
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -36,6 +32,9 @@ defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
 enableGitInfo = false
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
