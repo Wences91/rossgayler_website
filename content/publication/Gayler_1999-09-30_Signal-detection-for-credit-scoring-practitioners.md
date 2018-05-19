@@ -1,6 +1,6 @@
 +++
-title = "Vector Symbolic Architectures answer Jackendoff's challenges for cognitive neuroscience"
-date = 2003-07-17T00:00:00
+title = "Signal Detection for Credit Scoring Practitioners"
+date = 1999-09-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ross W Gayler"]
@@ -14,14 +14,14 @@ authors = ["Ross W Gayler"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"] 
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the ICCS/ASCS Joint International Conference on Cognitive Science (ICCS/ASCS 2003)"
+publication = "Presentation at Credit Scoring and Credit Control VI, Edinburgh, Scotland"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Jackendoff (2002) posed four challenges that linguistic combinatoriality and rules of language present to theories of brain function. The essence of these problems is the question of how to neurally instantiate the rapid construction and transformation of the compositional structures that are typically taken to be the domain of symbolic processing. He contended that typical connectionist approaches fail to meet these challenges and that the dialogue between linguistic theory and cognitive neuroscience will be relatively unproductive until the importance of these problems is widely recognised and the challenges answered by some technical innovation in connectionist modelling. This paper claims that a little-known family of connectionist models (Vector Symbolic Architectures) are able to meet Jackendoff's challenges."
+abstract = "The ROC curve is useful for assessing the predictive power of risk models and is relatively well known for this purpose in the credit scoring community. The ROC curve is a component of the Theory of Signal Detection (TSD), a theory which has pervasive links to many issues in model building. However, these conceptual links and their associated insights and techniques are less well known than they deserve to be among credit scoring practitioners.\n\nThe purpose of this paper is to alert credit risk modelers to the relationships between TSD and common scorecard development concepts and to provide a toolbox of simple techniques and interpretations."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -33,15 +33,15 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project file in `content/project/`.
-projects = ["compositional-memory.md"]
+projects = ["credit-scoring.md"]
 
 # Links (optional).
-url_pdf = "http://arxiv.org/abs/cs/0412059"
+# url_pdf = ""
 # url_preprint = "#"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "#"
-# url_slides = ""
+url_slides = "https://sites.google.com/site/rgayler/CSCC6proceedingsGayler.pdf"
 # url_video = ""
 # url_poster = "#"
 # url_source = "#"

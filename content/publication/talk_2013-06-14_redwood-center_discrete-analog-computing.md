@@ -14,7 +14,7 @@ authors = ["Ross W Gayler"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Presentation given at The Redwood Center for Theoretical Neuroscience at UC Berkeley, 2013-06-14"
