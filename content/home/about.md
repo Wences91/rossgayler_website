@@ -67,9 +67,9 @@ and consequently have difficulty recognising novel configurations of familiar co
 or recognising familiar patterns of relationship when the components have been changed.
 If successful, this work will have fundamental implications for cognitive science.
 
-If you want a more CV-like listing of where I have worked,
-look at my [LinkedIn profile](https://www.linkedin.com/in/rossgayler/).
+*If you want a more CV-like listing of where I have worked,
+look at my [LinkedIn profile](https://www.linkedin.com/in/rossgayler/).*
 
-I am progressively transferring content from [my old website](https://sites.google.com/site/rgayler/home) to here.
-If you can't find something here it may be there.
-My old website will eventually be shut down.
+*I am progressively transferring content from [my old website](https://sites.google.com/site/rgayler/home) to here.
+If you can't find something, here it may be there.
+My old website will eventually be retired.*
