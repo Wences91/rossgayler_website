@@ -35,6 +35,8 @@ selected = true
 #   Simply enter the filename of your project file in `content/project/`.
 projects = ["compositional-memory.md"]
 
+tags = ["vector-symbolic-architecture"]
+
 # Links (optional).
 url_pdf = "http://arxiv.org/abs/cs/0412059"
 # url_preprint = "#"

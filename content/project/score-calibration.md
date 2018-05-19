@@ -13,7 +13,7 @@ image_preview = "score-calibration.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["credit-scoring", "calibration"]
+tags = ["credit-scoring", "calibration", "R"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

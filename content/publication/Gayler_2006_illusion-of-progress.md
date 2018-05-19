@@ -35,6 +35,8 @@ selected = true
 #   Simply enter the filename of your project file in `content/project/`.
 projects = ["credit-scoring.md"]
 
+tags = ["credit-scoring"]
+
 # Links (optional).
 url_pdf = "https://projecteuclid.org/euclid.ss/1149600841"
 # url_preprint = "#"

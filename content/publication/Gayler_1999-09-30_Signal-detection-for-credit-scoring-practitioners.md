@@ -35,6 +35,8 @@ selected = true
 #   Simply enter the filename of your project file in `content/project/`.
 projects = ["credit-scoring.md"]
 
+tags = ["credit-scoring", "signal-detection-theory"]
+
 # Links (optional).
 # url_pdf = ""
 # url_preprint = "#"
