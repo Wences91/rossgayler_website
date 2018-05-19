@@ -34,8 +34,11 @@ defaultContentLanguageInSubdir = false
 enableGitInfo = false
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
-
+  post = "/post/:year/:month/:day/:slug/"
+  talk = "/talk/:year/:month/:day/:slug/"
+  publication = "/publication/:year/:month/:day/:slug/"
+  project = "/project/:year/:month/:day/:slug/"
+  
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
   section = [ "HTML", "RSS" ]
