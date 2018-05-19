@@ -37,7 +37,7 @@ weight = 5
  
 +++
 
-# What I do: 3
+# What I do:
 
 I work as a consultant data scientist - mostly in credit scoring 
 (predictive modelling of retail customer behaviour in consumer finance).
@@ -69,3 +69,7 @@ If successful, this work will have fundamental implications for cognitive scienc
 
 If you want a more CV-like listing of where I have worked,
 look at my [LinkedIn profile](https://www.linkedin.com/in/rossgayler/).
+
+I am progressively transferring content from [my old website](https://sites.google.com/site/rgayler/home) to here.
+If you can't find something here it may be there.
+My old website will eventually be shut down.
