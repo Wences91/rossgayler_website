@@ -17,7 +17,7 @@ weight = 40
 
 ## Future Events
 
-I will be attending these events and presenting at some of them.  
+I will be attending these events.  
 Feel free to organise catching up with me for a chat.
 
 * [CSCC XVI](https://www.business-school.ed.ac.uk/event/credit-scoring-and-credit-control-xvi)  
@@ -47,6 +47,8 @@ R and Data Management
 6:00 - 8:30pm, 23 May 2018  
 Melbourne, Australia
 
+## Past Events
+
 * [Data Science Melbourne Meetup]
 (https://www.meetup.com/Data-Science-Melbourne/events/248565491/)  
 Agile Data Science 2.0! (Vaenthan Thiru, Eric Wei, Felipe Flores)  
@@ -58,8 +60,6 @@ Melbourne, Australia
 Quantum machine learning (Chris Watkins)  
 6:00 - 9:00pm, 15 May 2018  
 Melbourne, Australia
-
-## Past Events
 
 * [Melbourne Users of R Network (MelbURN)  Meetup]
 (https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/247275020/)  
