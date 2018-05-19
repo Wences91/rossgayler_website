@@ -120,7 +120,7 @@ Getting started in Bayesian modelling with STAN and RStan (Bill Dixon)
 5:45 - 8:15pm, 13 September 2017  
 Melbourne, Australia
 
-* **[CSCC XV](https://www.business-school.ed.ac.uk/crc-conference/) [SPEAKER]**  
+* **[CSCC XV](https://www.business-school.ed.ac.uk/crc-conference/) [[SPEAKER](https://www.business-school.ed.ac.uk/crc/wp-content/uploads/sites/55/2018/01/42-Ross_Gayler.pdf)]**  
 Credit Scoring and Credit Control conference 2017  
 30 August - 1 September 2017  
 Edinburgh, Scotland  
