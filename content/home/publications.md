@@ -41,9 +41,9 @@ Consequently, my outputs are in whatever format was most convenient for me at th
 Most of my conference presentations are exactly that, presentations with no accompanying paper.
 My traditional format publications tend to mostly arise from collaborations with academic colleagues.
 
-I have not yet transferred all the outputs 
+*I have not yet transferred all the outputs 
 from my old, [outdated website](https://sites.google.com/site/rgayler/home).
-Until I do, the best sources are:
+Until I do, the best sources are:*
 
-* [Google Scholar](https://scholar.google.com/citations?user=LT55_kQAAAAJ)
-* [ResearchGate](https://www.researchgate.net/profile/Ross_Gayler)
+* *[Google Scholar](https://scholar.google.com/citations?user=LT55_kQAAAAJ)*
+* *[ResearchGate](https://www.researchgate.net/profile/Ross_Gayler)*
