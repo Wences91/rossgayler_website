@@ -1,0 +1,143 @@
+---
+title: Launching rossgayler.com, my new blogdown-based website
+author: Ross Gayler
+date: '2018-05-19'
+tags:
+  - R
+slug: blogdown-website-launch
+header:
+  caption: ''
+  image: ''
+---
+
+I created my first [personal website](https://sites.google.com/site/rgayler/home) in 2006 
+using [Google Sites](https://en.wikipedia.org/wiki/Google_Sites).
+This served me well enough for relatively static content but didn't really suit me
+for more involved content like blog posts of technical analyses.
+Eventually I got rather behind in updating it, so now that site is quite out of date.
+
+Web technology has moved on since 2006.
+In particular, the [R](https://www.r-project.org/)
+[`blogdown`](https://cran.r-project.org/web/packages/blogdown/index.html) package 
+has been released
+to simplify construction of websites,
+especially technical blogging based on R analyses.
+
+This post (the first on my new site)
+describes the set-up process I went through.
+
+I'm not really interested in the technical aspects of website construction.
+I would rather spend my time building models or doing research.
+So the challenge is to see how much I can achieve while knowing as little as possible about websites.
+
+I wanted a personal domain name rather than something generic,
+so a quick search for "how to register a domain name" found me helpful information like [this](https://www.thesitewizard.com/archive/registerdomain.shtml).
+I ended up registering my domain names through [*namecheap*](https://www.namecheap.com/).
+Parting with the money was quick and painless.
+Deciding on the domain names and which options to include took more time.
+
+Configuring my email service provider 
+and the *namecheap* [Domain Name Servers](https://en.wikipedia.org/wiki/Domain_Name_System) 
+to play nicely together so that I could have an email address in my own domain 
+was straight-forward but long-winded.
+The email provider and namecheap both provided step by step guides
+that inevitably used slightly different terminology
+and screenshots that didn't quite agree with the current releases of their software.
+So most of the time was spent interpreting the instructions
+and confirming that things were actually working as intended.
+
+Any recent user of R has very likely come across [RMarkdown](https://rmarkdown.rstudio.com/authoring_quick_tour.html),
+a simple markup language that allows executable R code to be embedded in formatted documents.
+This is a central part of my analytical workflow,
+so I was keen to have a website and blogging platform that supports RMarkdown documents.
+`blogdown` is an R package that adds an RMarkdown compatibility layer
+on top of a range of pre-existing, R-unaware, static web-site generators.
+
+The distinguishing feature of static web-sites 
+is that all the content is rendered in advance to static [HTML](https://en.wikipedia.org/wiki/HTML) files.
+This contrasts with dynamic websites, where the page content is generated on-the-fly
+(e.g. as the result of a web search).
+This makes a static website very simple from an infrastructure point of view.
+It is only a collection of files,
+whereas dynamic websites require databases and application servers to generate and render the content
+as it is required.
+
+A `blogdown` website requires three major software components: `blogdown`, a theme, and a site generator.
+
+The site generator I use is [`hugo`](https://gohugo.io/). 
+This takes a set of files specifying the desired content of the website
+and renders it to the set of HTML files that constitute the website.
+
+The theme I use is [`Academic`](https://sourcethemes.com/academic/).
+A theme is essentially a set of templates that allows you to specify your desired content
+in such a way that a style is consistently applied to the content.
+
+Finally, `blogdown` is a package of R functions to translate RMarkdown documents
+to a form that is compatible with the theme and site generator.
+It also has convenience functions that set up the website
+so you don't have to learn how to do that directly with the theme and site generator.
+
+There is good help online for using `blogdown`. 
+For example, there is a [book](https://bookdown.org/yihui/blogdown/)
+and tutorials like [this](https://alison.rbind.io/post/up-and-running-with-blogdown/)
+and [this](https://portfolio.peter-baumgartner.net/2017/09/04/blogdown-tutorial-part-1/).
+
+The claim is that you can get a website up and running in ten minutes.
+This is true, you can get a pre-built example website up and running in ten minutes.
+Putting in your own content is another matter.
+
+Adding content that falls in the categories provided by the Academic theme is straight-forward, 
+if a bit tedious because it's completely manual.
+For example, entering 3 or 4 publications by hand is fine, but 30 or 40 would exceed my patience threshold.
+Luckily everything in this system is mediated via files,
+so in principle you should be able to automate this.
+A quick web search finds 
+a [blog post](https://lbusettspatialr.blogspot.com.au/2018/03/automatically-importing-publications.html) 
+showing some simple R functions for exporting from a reference manager
+to the publication format required by the Academic theme.
+
+If you are not happy with the formatting provided by your chosen theme
+then you will have to wade into the internal details of the theme, `hugo`,
+and the nitty-gritty of web-page technology.
+The issue here is that in order to be sufficiently flexible
+both `hugo` and the theme effectively expose programming languages.
+So the various templates and other files that you need to fill in and modify
+are really programs that you are writing
+and can break in all the ways that programs do.
+
+Also, because you have `blogdown`, the theme, and the site generator as components of the system
+there are more places for things to go wrong
+and error messages can come from any part of the system
+without having a global view of what is going on.
+Also, these are young software,
+so they are not uniformly hardened against user errors.
+In my experience they worked fine when set up correctly,
+but broke in unexpected ways when I failed to set them up correctly.
+As someone attempting to set up a website
+with approximately zero knowledge of what I was doing,
+making mistakes was my default mode.
+
+I managed to spend a frustrating few days trying to track down why my website was not rendering.
+This turned out to be a consequence of a bug in the user interface I used
+(which meant that `blogdown` error messages were not displayed),
+combined with a bug in Academic theme that made it vulnerable to configuration errors,
+combined with my misunderstanding of the syntax of a configuration file.
+The details are on [stack overflow](https://stackoverflow.com/questions/50322490/rstudio-blogdown-adding-permalinks-to-config-toml-in-academic-theme-appears-t) 
+if you're interested.
+The maintainers of the various components are very responsive and helpful,
+but the lesson I took from this is that it's easy accidentally wander into the weeds.
+
+All the process so far my carried out on my local computer.
+I used [git](https://en.wikipedia.org/wiki/Git) to version-control the source documents of the website.
+My local git repository is replicated on [GitHub](https://github.com/rgayler/rossgayler_website).
+From there the website is easily deployed onto [netlify](https://www.netlify.com/).
+Instructions for deploying a `blogdown` website from GitHub to netlify
+can be found [here](https://www.netlify.com/) and [here](https://alison.rbind.io/post/up-and-running-with-blogdown/#deploy-in-netlify).
+
+Overall, the process of setting up this site has been not as painless as I (unrealistically) hoped,
+but massively less painful than it easily might have been.
+I hope this post helps someone who is contemplating setting up a website with blogdown.
+Future posts will be less about the infrastructure
+and more about my main interests.
+
+
