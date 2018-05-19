@@ -71,5 +71,5 @@ If successful, this work will have fundamental implications for cognitive scienc
 look at my [LinkedIn profile](https://www.linkedin.com/in/rossgayler/).*
 
 *I am progressively transferring content from [my old website](https://sites.google.com/site/rgayler/home) to here.
-If you can't find something, here it may be there.
+If you can't find something here, it may be there.
 My old website will eventually be retired.*

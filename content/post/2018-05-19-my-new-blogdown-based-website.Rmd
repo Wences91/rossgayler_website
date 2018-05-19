@@ -32,12 +32,12 @@ So the challenge is to see how much I can achieve while knowing as little as pos
 
 I wanted a personal domain name rather than something generic,
 so a quick search for "how to register a domain name" found me helpful information like [this](https://www.thesitewizard.com/archive/registerdomain.shtml).
-I ended up registering my domain names through [*namecheap*](https://www.namecheap.com/).
+I ended up registering my domain names through [namecheap](https://www.namecheap.com/).
 Parting with the money was quick and painless.
 Deciding on the domain names and which options to include took more time.
 
 Configuring my email service provider 
-and the *namecheap* [Domain Name Servers](https://en.wikipedia.org/wiki/Domain_Name_System) 
+and the namecheap [Domain Name Servers](https://en.wikipedia.org/wiki/Domain_Name_System) 
 to play nicely together so that I could have an email address in my own domain 
 was straight-forward but long-winded.
 The email provider and namecheap both provided step by step guides
@@ -68,7 +68,7 @@ The site generator I use is [`hugo`](https://gohugo.io/).
 This takes a set of files specifying the desired content of the website
 and renders it to the set of HTML files that constitute the website.
 
-The theme I use is [`Academic`](https://sourcethemes.com/academic/).
+The theme I use is [Academic](https://sourcethemes.com/academic/).
 A theme is essentially a set of templates that allows you to specify your desired content
 in such a way that a style is consistently applied to the content.
 
@@ -127,7 +127,7 @@ if you're interested.
 The maintainers of the various components are very responsive and helpful,
 but the lesson I took from this is that it's easy accidentally wander into the weeds.
 
-All the process so far my carried out on my local computer.
+All the process so far was carried out on my local computer.
 I used [git](https://en.wikipedia.org/wiki/Git) to version-control the source documents of the website.
 My local git repository is replicated on [GitHub](https://github.com/rgayler/rossgayler_website).
 From there the website is easily deployed onto [netlify](https://www.netlify.com/).
@@ -136,8 +136,6 @@ can be found [here](https://www.netlify.com/) and [here](https://alison.rbind.io
 
 Overall, the process of setting up this site has been not as painless as I (unrealistically) hoped,
 but massively less painful than it easily might have been.
-I hope this post helps someone who is contemplating setting up a website with blogdown.
+I hope this post helps someone who is contemplating setting up a website with `blogdown`.
 Future posts will be less about the infrastructure
-and more about my main interests.
-
-
+and more about my main interests in credit scoring and cognitive science.
