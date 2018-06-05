@@ -35,6 +35,8 @@ The conference for users of R
 10 - 13 July 2018  
 Brisbane, Australia
 
+## Past Events
+
 * [Statistical Society of Australia (Vic.) Meetup]
 (https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/249733767)  
 Credit scoring: should greater predictability come at the cost of model interpretation? (Ed Stokes)  
@@ -46,8 +48,6 @@ Melbourne, Australia
 R and Data Management  
 6:00 - 8:30pm, 23 May 2018  
 Melbourne, Australia
-
-## Past Events
 
 * [Data Science Melbourne Meetup]
 (https://www.meetup.com/Data-Science-Melbourne/events/248565491/)  
