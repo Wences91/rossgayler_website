@@ -35,6 +35,12 @@ The conference for users of R
 10 - 13 July 2018  
 Brisbane, Australia
 
+* [Machine Learning & AI Meetup]
+(https://www.meetup.com/Machine-Learning-AI-Meetup/events/248487057/)  
+Lightning talks (Isabell Kiral-Kornek, Alistair Roche, Nick Fisher)  
+6:00 - 9:00pm, 19 June 2018  
+Melbourne, Australia
+
 ## Past Events
 
 * [Statistical Society of Australia (Vic.) Meetup]
