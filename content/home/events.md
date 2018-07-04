@@ -30,6 +30,24 @@ Edinburgh, Scotland
 26 September 2018  
 Melbourne, Australia
 
+* **[Machine Learning & AI Meetup]
+(https://www.meetup.com/Machine-Learning-AI-Meetup/events/xgxjvpyxlbcc/) [SPEAKER]**  
+TBA (Ross Gayler)  
+6:00 - 9:00pm, 21 August 2018  
+Melbourne, Australia
+
+* [Living with Artificial Intelligence – Can Computers Behave Ethically?]
+(https://www.eventbrite.com.au/e/living-with-artificial-intelligence-can-computers-behave-ethically-tickets-45885331261)  
+(Svetha Venkatesh)  
+5:30 - 7:00pm, 17 July 2018  
+Melbourne, Australia
+
+* [Machine Learning & AI Meetup]
+(https://www.meetup.com/Machine-Learning-AI-Meetup/events/248487060)  
+Natural Language Processing (Matthew Honnibal, Ines Montani)  
+6:00 - 9:00pm, 8 August 2018  
+Melbourne, Australia
+
 * [useR! 2018](https://user2018.r-project.org/)  
 The conference for users of R  
 10 - 13 July 2018  
