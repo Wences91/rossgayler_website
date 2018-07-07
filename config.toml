@@ -166,7 +166,7 @@ enableGitInfo = false
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
   privacy_pack = true
-
+  
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = []
@@ -319,6 +319,11 @@ enableGitInfo = false
  url = "#licence"
  weight = 9
 
+[[menu.main]]
+ name = "Privacy"
+ url = "#privacy"
+ weight =  100
+ 
 # [[menu.main]]
 #   name = "Teaching"
 #   url = "#teaching"
@@ -336,3 +341,29 @@ enableGitInfo = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-au"
+  
+  # Hugo privacy options
+  # May not be compatible with Academic privacy_pack
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = true
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = true
+    privacyEnhanced = false
+  
