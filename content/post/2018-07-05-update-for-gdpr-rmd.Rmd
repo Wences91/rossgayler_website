@@ -2,7 +2,7 @@
 title: Updating my website for GDPR
 author: Ross Gayler
 date: '2018-07-07'
-slug: update-for-gdpr-rmd
+slug: update-for-gdpr
 categories: []
 tags: [blogdown, website, GDPR]
 header:
