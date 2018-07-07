@@ -2,9 +2,9 @@
 title: Updating my website for GDPR
 author: Ross Gayler
 date: '2018-07-07'
-slug: update-for-gdpr
+slug: updating-my-website-for-gdpr
 categories: []
-tags: [blogdown, website, GDPR]
+tags: []
 header:
   caption: ''
   image: ''
@@ -161,7 +161,7 @@ in the Blogdown book.
 I deleted the `themes/hugo-academic` folder
 then added it as a Git submodule.
 
-## Update the privacy policy document
+## Update the privacy policy document 
 
 I added a customised privacy policy document (`privacy.md`)
 by following [these instructions](https://github.com/gcushen/hugo-academic/issues/537).
