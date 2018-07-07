@@ -1,0 +1,154 @@
+---
+title: Updating my website for GDPR
+author: Ross Gayler
+date: '2018-07-07'
+slug: updating-my-website-for-gdpr
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+
+
+<p>One of the side-effects of working in credit-scoring,
+and especially working for a credit bureau,
+is that you tend to become <em>very</em> concerned about privacy issues.</p>
+<p>This website is implemented in <a href="https://bookdown.org/yihui/blogdown/">blogdown</a>
+using the <a href="https://gohugo.io/">Hugo</a> static website generator
+and the <a href="https://github.com/gcushen/hugo-academic">Academic</a> theme.
+When I launched the website,
+just before
+the EU <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation (GDPR)</a>
+came into force,
+the implementation tools provided some basic GDPR support.
+Since then, some more privacy-related features have been added -
+so I feel obliged to add them to my site.
+(Besides which, this gives me an opportunity to practise updating my infrastructure.)</p>
+<div id="update-the-hugo-version" class="section level2">
+<h2>Update the Hugo version</h2>
+<p>Hugo has introduced new, more
+<a href="https://gohugo.io/about/hugo-and-gdpr/">fine-grained privacy configuration</a>
+since version <code>0.41</code>.
+So, the first step is to update my Hugo installation
+and the <a href="https://www.netlify.com/">Netlify</a> deploy process that depends on it.
+Luckily, Mara Averick has a blog post precisely on
+<a href="https://maraaverick.rbind.io/2017/10/updating-blogdown-hugo-version-netlify/">“updating your version of Hugo for blogdown on Netlify”</a>.</p>
+<p>So, stepping through:</p>
+<ul>
+<li>What version of Hugo am I using now?</li>
+</ul>
+<pre><code># from R
+&gt; blogdown::hugo_version()
+[1] ‘0.40.3’</code></pre>
+<p>The curent version of Hugo as I write is <a href="https://gohugo.io/news/0.42.2-relnotes/"><code>0.42.2</code></a></p>
+<ul>
+<li>Updating Hugo from R is as simple as:</li>
+</ul>
+<pre><code>&gt; blogdown::update_hugo()
+The latest Hugo version is 0.42.2
+trying URL &#39;https://github.com/gohugoio/hugo/releases/download/v0.42.2/hugo_0.42.2_Linux-64bit.tar.gz&#39;
+Content type &#39;application/octet-stream&#39; length 6176212 bytes (5.9 MB)
+==================================================
+downloaded 5.9 MB
+
+Hugo has been installed to /home/ross/bin</code></pre>
+<p>The other thing credit scoring tends to do is reinforce your paranoid tendencies.
+So, I’ll check the installed version again.</p>
+<pre><code>&gt; blogdown::hugo_version()
+[1] ‘0.42.2’</code></pre>
+<p>So far I have updated Hugo for the website build that happens
+on my local machine.
+However, the website is deployed by Netlify,
+which rebuilds the website remotely
+from the source files in my <a href="https://github.com/rgayler/rossgayler_website">GitHub repo</a>.
+So I also need to tell Netlify to use the same version of Hugo.</p>
+<ul>
+<li>Update the Netlify HUGO_VERSION build environment variable</li>
+</ul>
+<p>This is described in some more detail in Mara’s post</p>
+<ul>
+<li>Deploy on Netlify</li>
+</ul>
+<p>I triggered a deploy on Netlify and the site was rebuilt
+using the new version of Hugo.
+This executed with no problems.
+I presume that Hugo versions are kept backwards compatible.
+If Hugo is every updated in a way that breaks backward-compatibility
+then the local version of the site would need to be modified
+to be compatible with the new Hugo version
+and then pushed to the GitHub repo
+before the remote site was rebuilt on Netlify</p>
+</div>
+<div id="configure-the-hugo-privacy-settings" class="section level2">
+<h2>Configure the Hugo privacy settings</h2>
+<p>Hugo now provides more fine-grained control
+of <a href="https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings">privacy settings</a>.
+So I need to incorporate them into my site.</p>
+<ul>
+<li>Copy the new Hugo privacy settings into my local <code>config.toml</code></li>
+</ul>
+<p>I don’t really understand TOML, s
+o I find the safest way to add text to <code>config.toml</code>
+is to append it to the existing file.
+This avoids problems when inserting a table that can be arbitrarily long,
+because there is following pre-existing text
+that can be accidentally parsed as part of the inserted table.</p>
+<ul>
+<li>Edit the privacy settings</li>
+</ul>
+<p>I edited the newly added text in <code>config.toml</code>
+to disable all services except Google Analytics
+and set the Google Analytics options to the more privacy-preserving alternatives.
+Once again, I don’t understand how these services interact with the Hugo-generated website,
+so I presume the most conservative option is to disable them.</p>
+<p>Also, the <code>config.toml</code> supplied with the Academic theme
+contains the lines:</p>
+<pre><code>  # Privacy pack
+  #   Show a cookie consent message to visitors
+  #   Anonymize IP in Google Analytics (if enabled)
+  privacy_pack = true</code></pre>
+<p>And the newly edited <code>config.toml</code> code from Hugo
+contains the lines:</p>
+<pre><code>[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false</code></pre>
+<p>There is obviously some overlap of the two
+with respect to anonymization of IP addresses for Google Analytics.
+Once again, I don’t know how these are implemented
+but I presume that if they both agree that IP adresses
+should be anonymized,
+then that is what will happen.</p>
+</div>
+<div id="update-the-academic-theme" class="section level2">
+<h2>Update the Academic theme</h2>
+<p><a href="https://georgecushen.com/">George Cushen</a>,
+the author of the Acxademic theme,
+has added functionality for having a
+<a href="https://github.com/gcushen/hugo-academic/issues/537">customised privacy policy</a>.
+To use this I need to update my installation
+of the Academic theme.</p>
+<p>There are <a href="https://bookdown.org/yihui/blogdown/version-control.html">instructions for updating the theme framework</a>
+in the Blogdown book.</p>
+<ul>
+<li>Update the Academic theme</li>
+</ul>
+<p>I deleted the <code>themes/hugo-academic</code> folder
+then added it as a Git submodule.</p>
+</div>
+<div id="update-the-privacy-policy-document" class="section level2">
+<h2>Update the privacy policy document</h2>
+<p>I added a customised privacy policy document (<code>privacy.md</code>)
+by following <a href="https://github.com/gcushen/hugo-academic/issues/537">these instructions</a>.</p>
+<ul>
+<li>Update the privacy policy document</li>
+</ul>
+<p>And we’re done.
+The website appears to be working as intended
+and the new privacy policy is displayed
+if the website visitor clicks the “Learn more” link.</p>
+</div>
