@@ -39,13 +39,19 @@ Melbourne, Australia
 * [Living with Artificial Intelligence – Can Computers Behave Ethically?]
 (https://www.eventbrite.com.au/e/living-with-artificial-intelligence-can-computers-behave-ethically-tickets-45885331261)  
 (Svetha Venkatesh)  
-5:30 - 7:00pm, 17 July 2018  
+5:30 - 7:00pm, 8 August 2018  
+Melbourne, Australia
+
+* [Machine Learning & AI Meetup]
+(https://www.eventbrite.com.au/e/mlai-melbourne-acl-special-event-with-richard-socher-airtree-ventures-tickets-47906749377)  
+Special event with Richard Socher & AirTree Ventures  
+6:00 - 8:00pm, 18 July 2018  
 Melbourne, Australia
 
 * [Machine Learning & AI Meetup]
 (https://www.meetup.com/Machine-Learning-AI-Meetup/events/248487060)  
 Natural Language Processing (Matthew Honnibal, Ines Montani)  
-6:00 - 9:00pm, 8 August 2018  
+6:00 - 9:00pm, 17 July 2018  
 Melbourne, Australia
 
 * [useR! 2018](https://user2018.r-project.org/)  
