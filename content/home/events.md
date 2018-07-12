@@ -50,7 +50,7 @@ Melbourne, Australia
 
 * [Machine Learning & AI Meetup]
 (https://www.meetup.com/Machine-Learning-AI-Meetup/events/248487060)  
-Natural Language Processing (Matthew Honnibal, Ines Montani)  
+Matt Gardner - Allen Institute for Artificial Intelligence  
 6:00 - 9:00pm, 17 July 2018  
 Melbourne, Australia
 
