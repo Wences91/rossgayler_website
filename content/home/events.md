@@ -54,12 +54,12 @@ Matt Gardner - Allen Institute for Artificial Intelligence
 6:00 - 9:00pm, 17 July 2018  
 Melbourne, Australia
 
+## Past Events
+
 * [useR! 2018](https://user2018.r-project.org/)  
 The conference for users of R  
 10 - 13 July 2018  
 Brisbane, Australia
-
-## Past Events
 
 * [Statistical Society of Australia (Vic.) Meetup]
 (https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/249733767)  
