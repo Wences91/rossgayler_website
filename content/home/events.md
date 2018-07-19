@@ -32,7 +32,7 @@ Melbourne, Australia
 
 * **[Machine Learning & AI Meetup]
 (https://www.meetup.com/Machine-Learning-AI-Meetup/events/xgxjvpyxlbcc/) [SPEAKER]**  
-TBA (Ross Gayler)  
+VSA: Analog computing for discrete data structures (Ross Gayler)  
 6:00 - 9:00pm, 21 August 2018  
 Melbourne, Australia
 
@@ -41,6 +41,8 @@ Melbourne, Australia
 (Svetha Venkatesh)  
 5:30 - 7:00pm, 8 August 2018  
 Melbourne, Australia
+
+## Past Events
 
 * [Machine Learning & AI Meetup]
 (https://www.eventbrite.com.au/e/mlai-melbourne-acl-special-event-with-richard-socher-airtree-ventures-tickets-47906749377)  
@@ -53,8 +55,6 @@ Melbourne, Australia
 Matt Gardner - Allen Institute for Artificial Intelligence  
 6:00 - 9:00pm, 17 July 2018  
 Melbourne, Australia
-
-## Past Events
 
 * [useR! 2018](https://user2018.r-project.org/)  
 The conference for users of R  
