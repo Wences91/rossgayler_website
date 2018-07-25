@@ -30,6 +30,12 @@ Edinburgh, Scotland
 26 September 2018  
 Melbourne, Australia
 
+* [Melbourne Users of R Network (MelbURN)  Meetup]
+(https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/252856839/)  
+Production ready R - getting started with R and Docker (Elizabeth Stark)  
+5:45 - 7:30pm, 23 August 2018  
+Melbourne, Australia
+
 * **[Machine Learning & AI Meetup]
 (https://www.meetup.com/Machine-Learning-AI-Meetup/events/xgxjvpyxlbcc/) [SPEAKER]**  
 VSA: Analog computing for discrete data structures (Ross Gayler)  
