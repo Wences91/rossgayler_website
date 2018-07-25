@@ -42,6 +42,12 @@ Melbourne, Australia
 5:30 - 7:00pm, 8 August 2018  
 Melbourne, Australia
 
+* [Big data, privacy and AI]
+(https://www.latrobe.edu.au/events/all/big-data-privacy-and-ai)  
+(David Watts, Mira Stammers, Bridget Bainbridge)  
+6:00 - 7:30pm, 31 July 2018  
+Melbourne, Australia
+
 ## Past Events
 
 * [Machine Learning & AI Meetup]
