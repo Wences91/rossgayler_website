@@ -30,6 +30,12 @@ Edinburgh, Scotland
 26 September 2018  
 Melbourne, Australia
 
+* [Statistical Society of Australia (Vic.) Meetup]
+(https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/253353772/)  
+Optimisation in the darkness of uncertainty (Kate Smith-Miles)  
+6:15 - 7:15pm, 25 September 2018  
+Melbourne, Australia
+
 * [Melbourne Users of R Network (MelbURN)  Meetup]
 (https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/252856839/)  
 Production ready R - getting started with R and Docker (Elizabeth Stark)  
@@ -42,19 +48,25 @@ VSA: Analog computing for discrete data structures (Ross Gayler)
 6:00 - 9:00pm, 21 August 2018  
 Melbourne, Australia
 
+* [Data Science Melbourne Meetup]
+(https://www.meetup.com/Data-Science-Melbourne/events/251423573/)  
+So you want to be a data science consultant? (Martin Kemka, Kendra Vant, Lachlan Vogt)  
+5:30 - 8:30pm, 15 August 2018  
+Melbourne, Australia
+
 * [Living with Artificial Intelligence – Can Computers Behave Ethically?]
 (https://www.eventbrite.com.au/e/living-with-artificial-intelligence-can-computers-behave-ethically-tickets-45885331261)  
-(Svetha Venkatesh)  
+(Terry Caelli)  
 5:30 - 7:00pm, 8 August 2018  
 Melbourne, Australia
+
+## Past Events
 
 * [Big data, privacy and AI]
 (https://www.latrobe.edu.au/events/all/big-data-privacy-and-ai)  
 (David Watts, Mira Stammers, Bridget Bainbridge)  
 6:00 - 7:30pm, 31 July 2018  
 Melbourne, Australia
-
-## Past Events
 
 * [Machine Learning & AI Meetup]
 (https://www.eventbrite.com.au/e/mlai-melbourne-acl-special-event-with-richard-socher-airtree-ventures-tickets-47906749377)  
