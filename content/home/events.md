@@ -54,12 +54,6 @@ So you want to be a data science consultant? (Martin Kemka, Kendra Vant, Lachlan
 5:30 - 8:30pm, 15 August 2018  
 Melbourne, Australia
 
-* [Living with Artificial Intelligence – Can Computers Behave Ethically?]
-(https://www.eventbrite.com.au/e/living-with-artificial-intelligence-can-computers-behave-ethically-tickets-45885331261)  
-(Terry Caelli)  
-5:30 - 7:00pm, 8 August 2018  
-Melbourne, Australia
-
 ## Past Events
 
 * [Big data, privacy and AI]
