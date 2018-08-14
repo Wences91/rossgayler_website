@@ -48,12 +48,6 @@ VSA: Analog computing for discrete data structures (Ross Gayler)
 6:00 - 9:00pm, 21 August 2018  
 Melbourne, Australia
 
-* [Data Science Melbourne Meetup]
-(https://www.meetup.com/Data-Science-Melbourne/events/251423573/)  
-So you want to be a data science consultant? (Martin Kemka, Kendra Vant, Lachlan Vogt)  
-5:30 - 8:30pm, 15 August 2018  
-Melbourne, Australia
-
 ## Past Events
 
 * [Big data, privacy and AI]
