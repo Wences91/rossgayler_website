@@ -42,13 +42,13 @@ Production ready R - getting started with R and Docker (Elizabeth Stark)
 5:45 - 7:30pm, 23 August 2018  
 Melbourne, Australia
 
+## Past Events
+
 * **[Machine Learning & AI Meetup]
 (https://www.meetup.com/Machine-Learning-AI-Meetup/events/xgxjvpyxlbcc/) [SPEAKER]**  
 VSA: Analog computing for discrete data structures (Ross Gayler)  
 6:00 - 9:00pm, 21 August 2018  
 Melbourne, Australia
-
-## Past Events
 
 * [Big data, privacy and AI]
 (https://www.latrobe.edu.au/events/all/big-data-privacy-and-ai)  
