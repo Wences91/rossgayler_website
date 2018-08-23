@@ -36,13 +36,13 @@ Optimisation in the darkness of uncertainty (Kate Smith-Miles)
 6:15 - 7:15pm, 25 September 2018  
 Melbourne, Australia
 
+## Past Events
+
 * [Melbourne Users of R Network (MelbURN)  Meetup]
 (https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/252856839/)  
 Production ready R - getting started with R and Docker (Elizabeth Stark)  
 5:45 - 7:30pm, 23 August 2018  
 Melbourne, Australia
-
-## Past Events
 
 * **[Machine Learning & AI Meetup]
 (https://www.meetup.com/Machine-Learning-AI-Meetup/events/xgxjvpyxlbcc/) [SPEAKER]**  
