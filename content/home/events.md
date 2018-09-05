@@ -36,6 +36,18 @@ Optimisation in the darkness of uncertainty (Kate Smith-Miles)
 6:15 - 7:15pm, 25 September 2018  
 Melbourne, Australia
 
+* [Melbourne Users of R Network (MelbURN)  Meetup]
+(https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/254347277)  
+Developing and deploying Shiny dashboards (Subhabroto Dhar)  
+5:45 - 7:30pm, 24 September 2018  
+Melbourne, Australia
+
+* [Machine Learning & AI Meetup]
+(https://www.meetup.com/Machine-Learning-AI-Meetup/events/248487065)  
+Causality (Elizabeth Silver)  
+6:00 - 9:00pm, 18 September 2018  
+Melbourne, Australia
+
 ## Past Events
 
 * [Melbourne Stan and Bayesian Inference Meetup]
