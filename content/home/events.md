@@ -25,6 +25,13 @@ Credit Scoring and Credit Control conference 2019
 27 - 30 August 2019  
 Edinburgh, Scotland
 
+
+* [Melbourne Stan and Bayesian Inference Meetup]
+(https://www.meetup.com/Melbourne-Stan-and-Bayesian-Inference-Meetup/events/254601133/)  
+Fast Bayesian inference using Greta (Nick Golding)  
+6:00 - 8:00pm, 26 September 2018  
+Melbourne, Australia
+
 * [MeDaScIn 2018](https://www.meetup.com/Data-Science-Melbourne/events/248209655/)  
 **Me**lbourne **Da**ta **Sc**ience **In**itiative conference  
 26 September 2018  
@@ -42,17 +49,30 @@ Developing and deploying Shiny dashboards (Subhabroto Dhar)
 5:45 - 7:30pm, 24 September 2018  
 Melbourne, Australia
 
+* [Melbourne NLP Meetup]
+(https://www.meetup.com/melbnlp/events/254137725/)  
+Robust NLP (Tim Baldwin)  
+Biomedical text mining (Antonio Jimeno Yepes)  
+6:00 - 9:00pm, 20 September 2018  
+Melbourne, Australia
+
+* [R-Ladies Melbourne Meetup]
+(https://www.meetup.com/R-Ladies-Melbourne/events/254426789/)  
+R as a tool for complex systems modelling (Caitlin Adams)  
+5:30 - 8:00pm, 19 September 2018  
+Melbourne, Australia
+
+## Past Events
+
 * [Machine Learning & AI Meetup]
 (https://www.meetup.com/Machine-Learning-AI-Meetup/events/248487065)  
 Causality (Elizabeth Silver)  
 6:00 - 9:00pm, 18 September 2018  
 Melbourne, Australia
 
-## Past Events
-
 * [Melbourne Stan and Bayesian Inference Meetup]
 (https://www.meetup.com/Melbourne-Stan-and-Bayesian-Inference-Meetup/events/253803000/)  
-Example models in Stan (Various)  
+Example models in Stan (Martin Ingram)  
 6:00 - 7:30pm, 30 August 2018  
 Melbourne, Australia
 
