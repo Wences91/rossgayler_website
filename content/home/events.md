@@ -49,6 +49,8 @@ Developing and deploying Shiny dashboards (Subhabroto Dhar)
 5:45 - 7:30pm, 24 September 2018  
 Melbourne, Australia
 
+## Past Events
+
 * [Melbourne NLP Meetup]
 (https://www.meetup.com/melbnlp/events/254137725/)  
 Robust NLP (Tim Baldwin)  
@@ -61,8 +63,6 @@ Melbourne, Australia
 R as a tool for complex systems modelling (Caitlin Adams)  
 5:30 - 8:00pm, 19 September 2018  
 Melbourne, Australia
-
-## Past Events
 
 * [Machine Learning & AI Meetup]
 (https://www.meetup.com/Machine-Learning-AI-Meetup/events/248487065)  
