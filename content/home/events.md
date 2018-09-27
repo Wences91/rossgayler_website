@@ -25,18 +25,12 @@ Credit Scoring and Credit Control conference 2019
 27 - 30 August 2019  
 Edinburgh, Scotland
 
+## Past Events
+
 * [MeDaScIn 2018](https://www.meetup.com/Data-Science-Melbourne/events/248209655/)  
 **Me**lbourne **Da**ta **Sc**ience **In**itiative conference  
 26 September 2018  
 Melbourne, Australia
-
-* [Statistical Society of Australia (Vic.) Meetup]
-(https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/253353772/)  
-Optimisation in the darkness of uncertainty (Kate Smith-Miles)  
-6:15 - 7:15pm, 25 September 2018  
-Melbourne, Australia
-
-## Past Events
 
 * [Melbourne NLP Meetup]
 (https://www.meetup.com/melbnlp/events/254137725/)  
