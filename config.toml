@@ -36,6 +36,7 @@ enableGitInfo = false
 [permalinks]
   post = "/post/:year/:month/:day/:slug/"
   talk = "/talk/:year/:month/:day/:slug/"
+  interview = "/interview/:year/:month/:day/:slug/"
   publication = "/publication/:year/:month/:day/:slug/"
   project = "/project/:year/:month/:day/:slug/"
   
@@ -192,7 +193,12 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
+
+  # Configuration of interview pages.
+  [params.interviews]
+    # Show interview time?
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -305,14 +311,19 @@ enableGitInfo = false
   weight = 6
 
 [[menu.main]]
+  name = "Interviews"
+  url = "#interviews"
+  weight = 7
+
+[[menu.main]]
   name = "Outputs"
   url = "#publications"
-  weight = 7
+  weight = 8
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
+  weight = 9
   
 [[menu.main]]
  name = "Licence"
