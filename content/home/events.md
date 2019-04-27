@@ -25,6 +25,18 @@ Credit Scoring and Credit Control conference 2019
 27 - 30 August 2019  
 Edinburgh, Scotland
 
+* [Data Science Melbourne Meetup]
+(https://www.meetup.com/Data-Science-Melbourne/events/248565491/)  
+DSM is 5 years old!  
+5:30 - 8:30pm, 15 May 2019  
+Melbourne, Australia
+
+* [Statistical Society of Australia (Vic.) Meetup]
+(https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/260294878)  
+Reproducibility and Open Science (Hannah Fraser; Fiona Fidler; Mathew Ling)  
+5:45 - 7:15pm, 30 April 2019  
+Melbourne, Australia
+
 ## Past Events
 
 * [MeDaScIn 2018](https://www.meetup.com/Data-Science-Melbourne/events/248209655/)  
