@@ -31,6 +31,12 @@ Quantum Computing Explained
 6:00 - 8:00pm, 25 June 2019  
 Melbourne, Australia
 
+* [Melbourne Users of R Network (MelbURN)  Meetup]
+(https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/261305345/)  
+Optimising your R code (ZJ; Slava Razbash)  
+5:30 - 8:00pm, 19 June 2019  
+Melbourne, Australia
+
 * [R-Ladies Melbourne Meetup]
 (https://www.meetup.com/rladies-melbourne/events/261067613/)  
 Baby one more time - reproducibility in R and when to bring in the big guns (Lavinia Gordon)  
