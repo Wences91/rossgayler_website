@@ -37,13 +37,13 @@ Optimising your R code (ZJ; Slava Razbash)
 5:30 - 8:00pm, 19 June 2019  
 Melbourne, Australia
 
+## Past Events
+
 * [R-Ladies Melbourne Meetup]
 (https://www.meetup.com/rladies-melbourne/events/261067613/)  
 Baby one more time - reproducibility in R and when to bring in the big guns (Lavinia Gordon)  
 5:30 - 7:30pm, 22 May 2019  
 Melbourne, Australia
-
-## Past Events
 
 * [Statistical Society of Australia (Vic.) Meetup]
 (https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/260294878)  
