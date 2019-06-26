@@ -25,6 +25,7 @@ Credit Scoring and Credit Control conference 2019
 27 - 30 August 2019  
 Edinburgh, Scotland
 
+
 ## Past Events
 
 * [R-Ladies Melbourne Meetup]
