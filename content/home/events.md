@@ -20,11 +20,16 @@ weight = 40
 I will be attending these events.  
 Feel free to organise catching up with me for a chat.
 
+* [Melbourne Users of R Network (MelbURN)  Meetup]
+(https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/263600751/)  
+Data Clustering and Segmentation in R for Business (Jacob Cybulski)  
+5:45 - 7:30pm, 9 September 2019  
+Melbourne, Australia
+
 * [CSCC XVI](https://www.business-school.ed.ac.uk/event/credit-scoring-and-credit-control-xvi)  
 Credit Scoring and Credit Control conference 2019  
 27 - 30 August 2019  
 Edinburgh, Scotland
-
 
 ## Past Events
 
