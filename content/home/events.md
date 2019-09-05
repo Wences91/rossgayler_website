@@ -21,17 +21,35 @@ I will be attending these events.
 Feel free to organise catching up with me for a chat.
 
 * [Melbourne Users of R Network (MelbURN)  Meetup]
-(https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/263600751/)  
-Data Clustering and Segmentation in R for Business (Jacob Cybulski)  
-5:45 - 7:30pm, 9 September 2019  
+(https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/262304136/)  
+Exploring the individuals in longitudinal data with the brolgar package (Nick Tierney)  
+Deploying R models in AWS (Jeno Yamma)  
+5:45 - 8:00pm, 7 October 2019  
 Melbourne, Australia
 
-* [CSCC XVI](https://www.business-school.ed.ac.uk/event/credit-scoring-and-credit-control-xvi)  
-Credit Scoring and Credit Control conference 2019  
-27 - 30 August 2019  
-Edinburgh, Scotland
+* [R-Ladies Melbourne Meetup]
+(https://www.meetup.com/rladies-melbourne/events/264567591/)  
+Gold star reproducibility: containerisation with open-source tools (Saras Windecker)  
+5:30 - 7:30pm, 18 September 2019  
+Melbourne, Australia
+
+* [Data Science Melbourne Meetup]
+(https://www.meetup.com/Data-Science-Melbourne/events/261123211/)  
+Conversational AI (Prashant Natarajan)  
+Making Money in Data Science (Nic Ryan)  
+5:30 - 8:30pm, 12 September 2019  
+Melbourne, Australia
 
 ## Past Events
+
+* **[CSCC XVI](https://www.business-school.ed.ac.uk/event/credit-scoring-and-credit-control-xvi)
+[[SPEAKER](https://crc.business-school.ed.ac.uk/wp-content/uploads/sites/55/2019/07/K43-Scorecal-%E2%80%93-Empirical-Score-Gayler.pdf)]**  
+Credit Scoring and Credit Control conference 2019  
+27 - 30 August 2019  
+Edinburgh, Scotland  
+[**Conference Paper Archive**](https://crc.business-school.ed.ac.uk/category/conference-papers/2019/)  
+*My presentation on credit score calibration is online at http://doi.org/10.5281/zenodo.3381658 
+and the R notebook that generated it is at http://doi.org/10.5281/zenodo.3381641*
 
 * [R-Ladies Melbourne Meetup]
 (https://www.meetup.com/rladies-melbourne/events/261067613/)  
@@ -199,10 +217,10 @@ Getting started in Bayesian modelling with STAN and RStan (Bill Dixon)
 5:45 - 8:15pm, 13 September 2017  
 Melbourne, Australia
 
-* **[CSCC XV](https://www.business-school.ed.ac.uk/crc-conference/) [[SPEAKER](https://www.business-school.ed.ac.uk/crc/wp-content/uploads/sites/55/2018/01/42-Ross_Gayler.pdf)]**  
+* **[CSCC XV](https://crc.business-school.ed.ac.uk/conferences/) [[SPEAKER](https://crc.business-school.ed.ac.uk/wp-content/uploads/sites/55/2018/01/42-Ross_Gayler.pdf)]**  
 Credit Scoring and Credit Control conference 2017  
 30 August - 1 September 2017  
 Edinburgh, Scotland  
-[Conference Paper Archive](https://www.business-school.ed.ac.uk/crc/category/conference-papers/2017/)
+[Conference Paper Archive](https://crc.business-school.ed.ac.uk/category/conference-papers/2017/)
 
 

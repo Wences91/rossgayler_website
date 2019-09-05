@@ -46,4 +46,4 @@ from my old, [outdated website](https://sites.google.com/site/rgayler/home).
 Until I do, the best sources are:*
 
 * *[Google Scholar](https://scholar.google.com/citations?user=LT55_kQAAAAJ)*
-* *[ResearchGate](https://www.researchgate.net/profile/Ross_Gayler)*
+* *[ResearchGate](https://www.researchgate.net/profile/Ross_Gayler/research)*
