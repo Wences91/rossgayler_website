@@ -50,6 +50,16 @@ Edinburgh, Scotland
 [**Conference Paper Archive**](https://crc.business-school.ed.ac.uk/category/conference-papers/2019/)  
 *My presentation on credit score calibration is online at http://doi.org/10.5281/zenodo.3381658 
 and the R notebook that generated it is at http://doi.org/10.5281/zenodo.3381641*
+>>>>>>> 4ef254aa1e6f5c29a5907118ac7907abbd841ecc
+
+* **[CSCC XVI](https://www.business-school.ed.ac.uk/event/credit-scoring-and-credit-control-xvi)
+[[SPEAKER](https://crc.business-school.ed.ac.uk/wp-content/uploads/sites/55/2019/07/K43-Scorecal-%E2%80%93-Empirical-Score-Gayler.pdf)]**  
+Credit Scoring and Credit Control conference 2019  
+27 - 30 August 2019  
+Edinburgh, Scotland  
+[**Conference Paper Archive**](https://crc.business-school.ed.ac.uk/category/conference-papers/2019/)  
+*My presentation on credit score calibration is online at http://doi.org/10.5281/zenodo.3381658 
+and the R notebook that generated it is at http://doi.org/10.5281/zenodo.3381641*
 
 * [R-Ladies Melbourne Meetup]
 (https://www.meetup.com/rladies-melbourne/events/261067613/)  
