@@ -20,6 +20,12 @@ weight = 40
 I will be attending these events.  
 Feel free to organise catching up with me for a chat.
 
+* [Statistical Society of Australia (Vic.) Meetup]
+(https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/264551829)  
+Statistics is the crown jewel of data science (Antony Ugoni)  
+6:00 - 7:30pm, 31 October 2019  
+Melbourne, Australia
+
 * [Melbourne Users of R Network (MelbURN)  Meetup]
 (https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/262304136/)  
 Exploring the individuals in longitudinal data with the brolgar package (Nick Tierney)  
