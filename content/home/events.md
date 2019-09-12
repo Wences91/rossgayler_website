@@ -27,23 +27,16 @@ Statistics is the crown jewel of data science (Antony Ugoni)
 Melbourne, Australia
 
 * [Melbourne Users of R Network (MelbURN)  Meetup]
-(https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/264301141/)  
-Writing better code (Kaushik Lakshman)  
-Getting your colleagues started with R (Lyndon Walker)  
-5:45 - 8:30pm, 25 November 2019  
-Melbourne, Australia
-
-* [Statistical Society of Australia (Vic.) Meetup]
-(https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/264551829)  
-Statistics is the crown jewel of data science (Antony Ugoni)  
-6:00 - 7:30pm, 31 October 2019  
-Melbourne, Australia
-
-* [Melbourne Users of R Network (MelbURN)  Meetup]
 (https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/262304136/)  
 Exploring the individuals in longitudinal data with the brolgar package (Nick Tierney)  
 Deploying R models in AWS (Jeno Yamma)  
 5:45 - 8:00pm, 7 October 2019  
+Melbourne, Australia
+
+* [R-Ladies Melbourne Meetup]
+(https://www.meetup.com/rladies-melbourne/events/264886404/)  
+Take a Sad Plot & Make It Better (Alison Hill)  
+6:15 - 8:15pm, 26 September 2019  
 Melbourne, Australia
 
 * [R-Ladies Melbourne Meetup]
@@ -52,14 +45,14 @@ Gold star reproducibility: containerisation with open-source tools (Saras Windec
 5:30 - 7:30pm, 18 September 2019  
 Melbourne, Australia
 
+## Past Events
+
 * [Data Science Melbourne Meetup]
 (https://www.meetup.com/Data-Science-Melbourne/events/261123211/)  
 Conversational AI (Prashant Natarajan)  
 Making Money in Data Science (Nic Ryan)  
 5:30 - 8:30pm, 12 September 2019  
 Melbourne, Australia
-
-## Past Events
 
 * **[CSCC XVI](https://www.business-school.ed.ac.uk/event/credit-scoring-and-credit-control-xvi)
 [[SPEAKER](https://crc.business-school.ed.ac.uk/wp-content/uploads/sites/55/2019/07/K43-Scorecal-%E2%80%93-Empirical-Score-Gayler.pdf)]**  
