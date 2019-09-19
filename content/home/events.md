@@ -39,13 +39,13 @@ Take a Sad Plot & Make It Better (Alison Hill)
 6:15 - 8:15pm, 26 September 2019  
 Melbourne, Australia
 
+## Past Events
+
 * [R-Ladies Melbourne Meetup]
 (https://www.meetup.com/rladies-melbourne/events/264567591/)  
 Gold star reproducibility: containerisation with open-source tools (Saras Windecker)  
 5:30 - 7:30pm, 18 September 2019  
 Melbourne, Australia
-
-## Past Events
 
 * [Data Science Melbourne Meetup]
 (https://www.meetup.com/Data-Science-Melbourne/events/261123211/)  
