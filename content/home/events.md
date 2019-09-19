@@ -26,12 +26,20 @@ Statistics is the crown jewel of data science (Antony Ugoni)
 6:00 - 7:30pm, 31 October 2019  
 Melbourne, Australia
 
+* [Data Science Melbourne Meetup]
+(https://www.meetup.com/Data-Science-Melbourne/events/265012597/)  
+ATO Data, Analytics and Digital Innovation (Veli Fikret & Ying Yang)  
+5:30 - 8:00pm, 16 October 2019  
+Melbourne, Australia
+
 * [Melbourne Users of R Network (MelbURN)  Meetup]
 (https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/262304136/)  
 Exploring the individuals in longitudinal data with the brolgar package (Nick Tierney)  
 Deploying R models in AWS (Jeno Yamma)  
 5:45 - 8:00pm, 7 October 2019  
 Melbourne, Australia
+
+## Past Events
 
 * [R-Ladies Melbourne Meetup]
 (https://www.meetup.com/rladies-melbourne/events/264886404/)  
@@ -44,8 +52,6 @@ Melbourne, Australia
 Gold star reproducibility: containerisation with open-source tools (Saras Windecker)  
 5:30 - 7:30pm, 18 September 2019  
 Melbourne, Australia
-
-## Past Events
 
 * [Data Science Melbourne Meetup]
 (https://www.meetup.com/Data-Science-Melbourne/events/261123211/)  
