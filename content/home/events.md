@@ -20,6 +20,11 @@ weight = 40
 I will be attending these events.  
 Feel free to organise catching up with me for a chat.
 
+* [AIMOS 2019 conference](https://www.aimos2019conference.com)
+Australian Interdisciplinary Meta-Research and Open Science 2019  
+7 - 8 November 2019  
+Melbourne, Australia
+
 * [Statistical Society of Australia (Vic.) Meetup]
 (https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/264551829)  
 Statistics is the crown jewel of data science (Antony Ugoni)  
@@ -30,6 +35,10 @@ Melbourne, Australia
 (https://www.meetup.com/Data-Science-Melbourne/events/265012597/)  
 ATO Data, Analytics and Digital Innovation (Veli Fikret & Ying Yang)  
 5:30 - 8:00pm, 16 October 2019  
+Melbourne, Australia
+
+* Ethics in Artificial Intelligence
+5:30 - 7:30pm, 15 October 2019  
 Melbourne, Australia
 
 * [Melbourne Users of R Network (MelbURN)  Meetup]
@@ -46,8 +55,6 @@ Melbourne, Australia
 Take a Sad Plot & Make It Better (Alison Hill)  
 6:15 - 8:15pm, 26 September 2019  
 Melbourne, Australia
-
-## Past Events
 
 * [R-Ladies Melbourne Meetup]
 (https://www.meetup.com/rladies-melbourne/events/264567591/)  
@@ -70,6 +77,11 @@ Edinburgh, Scotland
 [**Conference Paper Archive**](https://crc.business-school.ed.ac.uk/category/conference-papers/2019/)  
 *My presentation on credit score calibration is online at http://doi.org/10.5281/zenodo.3381658 
 and the R notebook that generated it is at http://doi.org/10.5281/zenodo.3381641*
+
+* [RSSDS 2019](https://sites.google.com/view/rssds2019/home)
+Research School on Statistics and Data Science 2019  
+24 - 26 July 2019  
+Melbourne, Australia
 
 * [R-Ladies Melbourne Meetup]
 (https://www.meetup.com/rladies-melbourne/events/261067613/)  
