@@ -37,7 +37,7 @@ ATO Data, Analytics and Digital Innovation (Veli Fikret & Ying Yang)
 5:30 - 8:00pm, 16 October 2019  
 Melbourne, Australia
 
-* Ethics in Artificial Intelligence
+* [Ethics in Artificial Intelligence](https://www.meetup.com/Disruptors-In-Tech-Melb/events/264917972/)  
 5:30 - 7:30pm, 15 October 2019  
 Melbourne, Australia
 
