@@ -20,7 +20,7 @@ weight = 40
 I will be attending these events.  
 Feel free to organise catching up with me for a chat.
 
-* [AIMOS 2019 conference](https://www.aimos2019conference.com)
+* [AIMOS 2019 conference](https://www.aimos2019conference.com)  
 Australian Interdisciplinary Meta-Research and Open Science 2019  
 7 - 8 November 2019  
 Melbourne, Australia
