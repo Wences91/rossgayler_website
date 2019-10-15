@@ -31,11 +31,11 @@ Statistics is the crown jewel of data science (Antony Ugoni)
 6:00 - 7:30pm, 31 October 2019  
 Melbourne, Australia
 
+## Past Events
+
 * [Ethics in Artificial Intelligence](https://www.meetup.com/Disruptors-In-Tech-Melb/events/264917972/)  
 5:30 - 7:30pm, 15 October 2019  
 Melbourne, Australia
-
-## Past Events
 
 * [Melbourne Users of R Network (MelbURN)  Meetup]
 (https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/262304136/)  
