@@ -20,18 +20,18 @@ weight = 40
 I will be attending these events.  
 Feel free to organise catching up with me for a chat.
 
+* [WOMBAT2019 workshop](https://www.monash.edu/business/wombat2019)  
+Workshop Organised by the Monash Business Analytics Team 2019  
+Statistical methods and tools for effective analysis of high-dimensional data.  
+28 - 29 November 2019  
+Melbourne, Australia
+
+## Past Events
+
 * [AIMOS 2019 conference](https://www.aimos2019conference.com)  
 Australian Interdisciplinary Meta-Research and Open Science 2019  
 7 - 8 November 2019  
 Melbourne, Australia
-
-* [Statistical Society of Australia (Vic.) Meetup]
-(https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/events/264551829)  
-Statistics is the crown jewel of data science (Antony Ugoni)  
-6:00 - 7:30pm, 31 October 2019  
-Melbourne, Australia
-
-## Past Events
 
 * [Ethics in Artificial Intelligence](https://www.meetup.com/Disruptors-In-Tech-Melb/events/264917972/)  
 5:30 - 7:30pm, 15 October 2019  
