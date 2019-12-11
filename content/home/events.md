@@ -20,13 +20,18 @@ weight = 40
 I will be attending these events.  
 Feel free to organise catching up with me for a chat.
 
+* [VSA workshop 2020](https://sites.google.com/view/vsaworkshop2020)  
+First Workshop on Developments in Hyperdimensional Computing and Vector Symbolic Architectures  
+16 March 2020  
+Heidelberg, Germany
+
+## Past Events
+
 * [WOMBAT2019 workshop](https://www.monash.edu/business/wombat2019)  
 Workshop Organised by the Monash Business Analytics Team 2019  
 Statistical methods and tools for effective analysis of high-dimensional data.  
 28 - 29 November 2019  
 Melbourne, Australia
-
-## Past Events
 
 * [AIMOS 2019 conference](https://www.aimos2019conference.com)  
 Australian Interdisciplinary Meta-Research and Open Science 2019  
