@@ -31,6 +31,7 @@ In the office with ANZ
 5:30 - 8:30pm, 12 February 2020  
 Melbourne, Australia
 
+
 * [Melbourne Users of R Network (MelbURN)  Meetup]
 (https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/events/267819256/)  
 Practical guide to latent class models in R (Lito Cruz)  
