@@ -25,12 +25,6 @@ First Workshop on Developments in Hyperdimensional Computing and Vector Symbolic
 16 March 2020  
 Heidelberg, Germany
 
-* [Data Science Melbourne Meetup]
-(https://www.meetup.com/Data-Science-Melbourne/events/265043039/)  
-In the office with ANZ  
-5:30 - 8:30pm, 12 February 2020  
-Melbourne, Australia
-
 ## Past Events
 
 * [WOMBAT2019 workshop](https://www.monash.edu/business/wombat2019)  
