@@ -20,10 +20,11 @@ weight = 40
 I will be attending these events.  
 Feel free to organise catching up with me for a chat.
 
-* [VSA workshop 2020](https://sites.google.com/view/vsaworkshop2020)  
+* [VSA workshop 2020](https://sites.google.com/view/vsaworkshop2020) [**SPEAKER**]  
 First Workshop on Developments in Hyperdimensional Computing and Vector Symbolic Architectures  
 16 March 2020  
-Heidelberg, Germany
+Heidelberg, Germany  
+My presentation: *VSA, Analogy, and Dynamic Similarity*
 
 ## Past Events
 
@@ -68,8 +69,8 @@ Making Money in Data Science (Nic Ryan)
 5:30 - 8:30pm, 12 September 2019  
 Melbourne, Australia
 
-* **[CSCC XVI](https://www.business-school.ed.ac.uk/event/credit-scoring-and-credit-control-xvi)
-[[SPEAKER](https://crc.business-school.ed.ac.uk/wp-content/uploads/sites/55/2019/07/K43-Scorecal-%E2%80%93-Empirical-Score-Gayler.pdf)]**  
+* [CSCC XVI](https://www.business-school.ed.ac.uk/event/credit-scoring-and-credit-control-xvi)
+[[**SPEAKER**](https://crc.business-school.ed.ac.uk/wp-content/uploads/sites/55/2019/07/K43-Scorecal-%E2%80%93-Empirical-Score-Gayler.pdf)]  
 Credit Scoring and Credit Control conference 2019  
 27 - 30 August 2019  
 Edinburgh, Scotland  
