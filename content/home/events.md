@@ -17,16 +17,21 @@ weight = 40
 
 ## Future Events
 
-I will be attending these events.  
-Feel free to organise catching up with me for a chat.
+There are no face-to-face meetings in the foreseeable future
+because of the COVID-19 pandemic.
+If you would like to chat with me,
+drop me a note and we'll set up an online meeting.
 
-* [VSA workshop 2020](https://sites.google.com/view/vsaworkshop2020) [**SPEAKER**]  
+## Past Events
+
+* [VSA workshop 2020](https://sites.google.com/view/vsaworkshop2020) [[**SPEAKER**](https://doi.org/10.5281/zenodo.3700836)]  
 First Workshop on Developments in Hyperdimensional Computing and Vector Symbolic Architectures  
 16 March 2020  
 Heidelberg, Germany  
-My presentation: *VSA, Analogy, and Dynamic Similarity*
-
-## Past Events
+*The workshop was cancelled because of the COVID-19 pandemic,
+but my short presentation "VSA, Analogy, and Dynamic Similarity"
+is online at https://doi.org/10.5281/zenodo.3700836
+and the source code of the presentation is at https://github.com/rgayler/VSA_2020_presentation*
 
 * [WOMBAT2019 workshop](https://www.monash.edu/business/wombat2019)  
 Workshop Organised by the Monash Business Analytics Team 2019  
