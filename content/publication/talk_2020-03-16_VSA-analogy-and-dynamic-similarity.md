@@ -1,0 +1,71 @@
++++
+title = "VSA, Analogy, and Dynamic Similarity"
+date = 2020-03-16
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Ross W. Gayler"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.-30"
+publication = "Presentation to be given at the Workshop on Developments in Hyperdimensional Computing and Vector Symbolic Architectures in Heidelberg, Germany (cancelled because of the COVID-19 pandemic)"
+publication_short = ""
+
+# Abstract and optional shortened version.
+abstract = "It has been argued that analogy is at the core of cognition [7, 1]. My work in VSA is driven by the goal of building a practical, effective analogical memory/reasoning system. Analogy is commonly construed as structure mapping between a source and target [5], which in turn can be construed as representing the source and target as graphs and finding maximal graph isomorphisms between them. This can also be viewed as a kind of dynamic similarity in that the initially dissimilar source and target are effectively very similar after mapping.</br></br>Similarity (the angle between vectors) is central to the mechanics of VSA/HDC. Introductory papers (e.g. [8]) necessarily devote space to vector similarityand the effect of the primitive operators (sum, product, permutation) on similarity. Most VSA examples rely on static similarity, where the vector representations are fixed over the time scale of the core computation (which is usually a single-pass, feed-forward computation). This emphasises encoding methods (e.g. [12, 13]) that create vector representations with the similarity structure required by the core computation. Random Indexing [13] is an instance of the vector embedding approach to representation [11] that is widely used in NLP and ML. The important point is that the vector embeddings are developed in advance and then used as static representations (with fixed similarity structure) in the subsequent computation of interest.</br></br>Human similarity judgments are known to be context-dependent (see [3] for a brief review). It has also been argued that similarity and analogy are based on the same processes [6] and that cognition is so thoroughly context-dependent that representations are created on-the-fly in response to task demands [2]. This seems extreme, but doesn’t necessarily imply that the base representations are context-dependent as long as the cognitive process that compares them is context-dependent, which can be achieved by having dynamic representations that are derived from the static base representations by context-dependent transforms (or any functionally equivalent process).</br></br>An obvious candidate for a dynamic transformation function in VSA is substitution by binding, because the substitution can be specified as a vector and dynamically generated (see Representing substitution with a computed mapping in [8]). This implies an internal degree of freedom (a register to hold the substitution vector while it evolves) and a recurrent VSA circuit to provide the dynamics to evolve the substitution vector.</br></br>These essential aspects are present in [4], which finds the maximal subgraph isomorphism between two graphs represented as vectors. This is implemented as a recurrent VSA circuit with a register containing a substitution vector that evolves and settles over the course of the computation. The final state of the substitution vector represents the set of substitutions that transforms the static base representation of each graph into the best subgraph isomorphism to the static base representation of the other graph. This is a useful step along the path to an analogical memory system.</br></br>Interestingly, the subgraph isomorphism circuit can be interpreted as related to the recently developed Resonator Circuits for factorisation of VSA representations [9], which have internal degrees of freedom for each of the factors to be calculated and a recurrent VSA dynamics that settles on the factorisation. The graph isomorphism circuit can be interpreted as finding a factor (the substitution vector) such that the product of that factor with each of the graphs is the best possible approximation to the other graph. This links the whole enterprise back to statistical modelling, where there is a long history of approximating matrices/tensors as the product of simpler factors [10].</br></br>References</br>1. Blokpoel, M., Wareham, T., Haselager, P., van Rooij, I.: Deep Analogical Inference as the Origin of Hypotheses. The Journal of Problem Solving 11(1), 1–24 (2018)</br>2. Chalmers, D.J., French, R.M., Hofstadter, D.R.: High-level perception, representation, and analogy: A critique of artificial intelligence methodology. Journal of Experimental & Theoretical Artificial Intelligence 4(3), 185–211 (1992)</br>3. Cheng, Y.: Context-dependent similarity. In: Proceedings of the Sixth Annual Conference on Uncertainty in Artificial Intelligence (UAI’90), pp. 27–30. Cambridge, MA, USA (1990)</br>4. Gayler, R.W., Levy, S.D.: A distributed basis for analogical mapping. In: Proceedings of the Second International Conference on Analogy (ANALOGY-2009), pp. 165–174. New Bulgarian University, Sofia, Bulgaria (2009)</br>5. Gentner, D.: Structure-mapping: A theoretical framework for analogy. Cognitive Science 7(2), 155–170 (1983)</br>6. Gentner, D., Markman, A.B.: Structure mapping in analogy and similarity. American Psychologist 52(1), 45–56 (1997)</br>7. Gust, H., Krumnack, U., Kühnberger, K.-U., Schwering, A.: Analogical Reasoning: A core of cognition. KI - Künstliche Intelligenz 1(8), 8–12 (2008)</br>8. Kanerva, P.: Hyperdimensional computing: An introduction to computing in distributed representation with high-dimensional random vectors. Cognitive Computation 1, 139–159 (2009)</br>9. Kent, S.J., Frady, E.P., Sommer, F.T., Olshausen, B.A.: Resonator Circuits for factoring high-dimensional vectors. http://arxiv.org/abs/1906.11684 (2019)</br>10. Kolda, T.G., Bader, B.W.: Tensor decompositions and applications. SIAM Review 51(3), 455–500 (2009)</br>11. Pennington, J., Socher, R., Manning, C.D.: GloVe: Global vectors for word representation. In: Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1532–1543. Association for Computational Linguistics, Doha, Qatar (2014)</br>12. Purdy, S.: Encoding data for HTM systems. http://arxiv.org/abs/1602.05925 (2016)</br>13. Sahlgren, M.: An introduction to random indexing. In: Proceedings of the Methods and Applications of Semantic Indexing Workshop at the 7th International Conference on Terminology and Knowledge Engineering (TKE 2005), Copenhagen, Denmark (2005)"
+abstract_short = ""
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename of your project file in `content/project/`.
+projects = ["compositional-memory.md"]
+
+tags = ["vector-symbolic-architecture"]
+
+# Links (optional).
+url_slides = "http://doi.org/10.5281/zenodo.3700836"
+# url_code = ""
+# url_project = "" # over-ridden by the "projects" entry
+# url_pdf = "#"
+# url_preprint = "#"
+# url_dataset = "#"
+# url_video = ""
+# url_poster = "#"
+# url_source = "#"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "GitHub repo", url = "https://github.com/rgayler/VSA_2020_presentation"}]
+
+# Does the content use math formatting?
+math = false
+
+# Does the content use source code highlighting?
+highlight = false
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
+# More detail can easily be written below using *Markdown* and $\rm \LaTeX$ math code.
++++
+
+Presentation DOI: [10.5281/zenodo.3700836](http://doi.org/10.5281/zenodo.3700836)  
+

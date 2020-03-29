@@ -3,7 +3,7 @@ title = "scorecal - Empirical score calibration under the microscope"
 date = 2019-08-30
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ross W Gayler"]
+authors = ["Ross W. Gayler"]
 
 # Publication type.
 # Legend:
@@ -68,4 +68,3 @@ caption = ""
 
 Presentation DOI: [10.5281/zenodo.3381658](http://doi.org/10.5281/zenodo.3381658)  
   R notebook DOI: [10.5281/zenodo.3381641](http://doi.org/10.5281/zenodo.3381641)
-

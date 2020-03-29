@@ -3,7 +3,7 @@ title = "Comment: Classifier Technology and the Illusion of Progress — Credit 
 date = 2006-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ross W Gayler"]
+authors = ["Ross W. Gayler"]
 
 # Publication type.
 # Legend:
@@ -17,12 +17,13 @@ authors = ["Ross W Gayler"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Statistical Science, vol. 21, no. 1, pp. 19–23. [doi:10.1214 /088342306000000051](https://projecteuclid.org/euclid.ss/1149600841)"
+# / --> &#x2F; in the DOI because HTML was interpreting the numbers before and after the literal / as eing a fraction
+publication = "Statistical Science, vol. 21, no. 1, pp. 19–23. [doi:10.1214&#x2F;088342306000000051](https://projecteuclid.org/euclid.ss/1149600841)"
 publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "These comments support [Hand’s argument for the lack of practical progress in classifier technology](https://projecteuclid.org/euclid.ss/1149600839) by pursuing them a little deeper in the specific context of credit scoring. Academic development of modeling techniques tends to ignore the role of the practitioner and the impact of business objectives. In credit scoring it can be seen that the nature of the task forces practitioners to adopt modeling strategies that positively favor simple techniques or, at least, limit the possible advantage of sophisticated techniques. The strategies adopted by credit scorers can be viewed as a heuristic approach to inference of the unobserved (and unobservable) distribution of possible data sets. The technical progress examined by Hand has been aimed toward better goodness of fit. However, technical progress toward a more principled basis for inferring the distribution of future problem data would be more likely to be adopted in practice."
-# abstract_short = "This is a comment on [Hand (2006) 'Classifier Technology and the Illusion of Progress'](https://projecteuclid.org/euclid.ss/1149600839)."
+abstract_short = "This is a comment on [Hand (2006) 'Classifier Technology and the Illusion of Progress'](https://projecteuclid.org/euclid.ss/1149600839)."
 
 # Featured image thumbnail (optional)
 image_preview = ""

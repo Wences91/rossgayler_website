@@ -1,9 +1,9 @@
 +++
-title = "Vector Symbolic Architectures answer Jackendoff's challenges for cognitive neuroscience"
-date = 2003-07-17T00:00:00
+title = "Commentaries on 'Learning Sensorimotor Control with Neuromorphic Sensors: Toward Hyperdimensional Active Perception' [Science Robotics Vol. 4 Issue 30 (2019) 1-10]"
+date = 2020-03-25
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ross W. Gayler"]
+authors = ["Denis Kleyko", "Ross W. Gayler", "Evgeny Osipov"]
 
 # Publication type.
 # Legend:
@@ -14,14 +14,14 @@ authors = ["Ross W. Gayler"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"] 
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the ICCS/ASCS Joint International Conference on Cognitive Science (ICCS/ASCS 2003)"
+publication = "arXiv [arXiv:2003.11458 ](https://arxiv.org/abs/2003.11458)[cs.RO]"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Jackendoff (2002) posed four challenges that linguistic combinatoriality and rules of language present to theories of brain function. The essence of these problems is the question of how to neurally instantiate the rapid construction and transformation of the compositional structures that are typically taken to be the domain of symbolic processing. He contended that typical connectionist approaches fail to meet these challenges and that the dialogue between linguistic theory and cognitive neuroscience will be relatively unproductive until the importance of these problems is widely recognised and the challenges answered by some technical innovation in connectionist modelling. This paper claims that a little-known family of connectionist models (Vector Symbolic Architectures) are able to meet Jackendoff's challenges."
+abstract = "This correspondence comments on the findings reported in a recent Science Robotics article by Mitrokhin et al. [1]. The main goal of this commentary is to expand on some of the issues touched on in that article. Our experience is that hyperdimensional computing is very different from other approaches to computation and that it can take considerable exposure to its concepts before attaining practically useful understanding. Therefore, in order to provide an overview of the area to the first time reader of [1], the commentary includes a brief historic overview as well as connects the findings of the article to a larger body of literature existing in the area. "
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -38,7 +38,7 @@ projects = ["compositional-memory.md"]
 tags = ["vector-symbolic-architecture"]
 
 # Links (optional).
-url_pdf = "http://arxiv.org/abs/cs/0412059"
+url_pdf = "https://arxiv.org/pdf/2003.11458"
 # url_preprint = "#"
 # url_code = "#"
 # url_dataset = "#"

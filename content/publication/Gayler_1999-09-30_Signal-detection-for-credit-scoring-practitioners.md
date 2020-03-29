@@ -3,7 +3,7 @@ title = "Signal Detection for Credit Scoring Practitioners"
 date = 1999-09-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ross W Gayler"]
+authors = ["Ross W. Gayler"]
 
 # Publication type.
 # Legend:
